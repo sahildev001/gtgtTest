@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WetherApplication</string>
+    <string name="temperature_format">%s °C</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Enter City Name</string>
+</resources>
