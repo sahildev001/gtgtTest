@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WetherApplication</string>
+    <string name="app_name">WeatherApplication</string>
     <string name="temperature_format">%s °C</string>
 
     <string name="search">Search</string>
