@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "WetherApplication"
-include ':app'
+include ':weather'
 include ':splash'
